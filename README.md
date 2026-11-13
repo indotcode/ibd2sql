@@ -1,8 +1,6 @@
-[中文版介绍](https://github.com/ddcw/ibd2sql/blob/ibd2sql-v2.x/README_zh.md)
-
 # ibd2sql
 
-[ibd2sql](https://github.com/ddcw/ibd2sql) is tool of transform MySQL IBD file to SQL(data). Write using Python3 .
+[ibd2sql](https://github.com/ddcw/ibd2sql) Это инструмент для преобразования файла MySQL IBD в SQL-код (данные). Написано на Python3.
 
 When you only have IBD data file or a portion of IBD data files left, you can use `ibd2sql` to parse the data within it.
 
