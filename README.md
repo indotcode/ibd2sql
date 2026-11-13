@@ -1,17 +1,16 @@
 # ibd2sql
 
-[ibd2sql](https://github.com/ddcw/ibd2sql) Это инструмент для преобразования файла MySQL IBD в SQL-код (данные). Написано на Python3.
+[ibd2sql](https://github.com/indotcode/ibd2sql) Это инструмент для преобразования файла MySQL IBD в SQL-код (данные). Написано на Python3.
 
-When you only have IBD data file or a portion of IBD data files left, you can use `ibd2sql` to parse the data within it.
+Если у вас остался только файл данных IBD или его часть, вы можете использовать `ibd2sql` для анализа данных в нем.
 
-Or when you drop/truncate some table, you can also use `ibd2sql` to parse the remaining data on the disk
+Или, если вы удаляете/очищаете какую-либо таблицу, вы также можете использовать `ibd2sql` для анализа оставшихся данных на диске.
 
 
 
-# DOWNLOAD & USAGE
+# СКАЧАТЬ И ИСПОЛЬЗОВАТЬ
 
-## download
-
+## скачать
 ```shell
 wget https://github.com/ddcw/ibd2sql/archive/refs/heads/ibd2sql-v2.x.zip
 unzip ibd2sql-v2.x.zip
